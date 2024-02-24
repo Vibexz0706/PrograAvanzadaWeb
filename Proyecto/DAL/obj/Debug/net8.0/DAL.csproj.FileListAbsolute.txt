@@ -10,3 +10,19 @@ C:\Users\Vibexz\Desktop\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.dll
 C:\Users\Vibexz\Desktop\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\Vibexz\Desktop\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\Vibexz\Desktop\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\bin\Debug\net8.0\Entities.dll
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\bin\Debug\net8.0\Entities.pdb
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\DAL\obj\Debug\net8.0\ref\DAL.dll
