@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aKnlsQTSrQcFv1/iz2DVmSmaHs0d052FPmiyo27XgpulgDOdkb08iGV+bdmd5LAS3i4LMF+PLvYqscFGWHvSgg==",
+  "dgSpecHash": "jcHIrvF6g9mGOgqT8xqeYBlam15tvtjrSVeONZY3SnPXBsaJfraWYosYsWlN/hm8CuD2vWNSXFCTiwBmIQ6YmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vibexz\\Desktop\\Proyecto\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vibexz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Vibexz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -11,5 +11,5 @@ public partial class TabInstruccion
 
     public string? Instruccion { get; set; }
 
-    public virtual TabRecetum? IdRecetaNavigation { get; set; }
+    public virtual TabReceta? IdRecetaNavigation { get; set; }
 }
