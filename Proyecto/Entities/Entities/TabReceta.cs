@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Entities.Entities;
 
-public partial class TabRecetum
+public partial class TabReceta
 {
     public int IdReceta { get; set; }
 

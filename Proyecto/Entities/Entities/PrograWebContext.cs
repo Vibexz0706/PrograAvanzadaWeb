@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
 using Microsoft.EntityFrameworkCore;
 
 namespace Entities.Entities;
@@ -8,6 +7,7 @@ public partial class PrograWebContext : DbContext
 {
     public PrograWebContext()
     {
+
     }
 
     public PrograWebContext(DbContextOptions<PrograWebContext> options)
@@ -47,7 +47,7 @@ public partial class PrograWebContext : DbContext
 
     public virtual DbSet<TabProfesor> TabProfesors { get; set; }
 
-    public virtual DbSet<TabRecetum> TabReceta { get; set; }
+    public virtual DbSet<TabReceta> TabReceta { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -305,7 +305,7 @@ public partial class PrograWebContext : DbContext
                 .HasColumnName("NOMBRE");
         });
 
-        modelBuilder.Entity<TabRecetum>(entity =>
+        modelBuilder.Entity<TabReceta>(entity =>
         {
             entity.HasKey(e => e.IdReceta).HasName("PK_TAB_RECETA");
 

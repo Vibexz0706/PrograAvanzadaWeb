@@ -11,5 +11,5 @@ public partial class TabEstado
 
     public virtual ICollection<TabCurso> TabCursos { get; set; } = new List<TabCurso>();
 
-    public virtual ICollection<TabRecetum> TabReceta { get; set; } = new List<TabRecetum>();
+    public virtual ICollection<TabReceta> TabReceta { get; set; } = new List<TabReceta>();
 }

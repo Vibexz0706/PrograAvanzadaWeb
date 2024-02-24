@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Entities.Entities;
+namespace Backend.Models;
 
-public partial class TabInstruccion
+public partial class TabInstruccionModel
 {
     public int IdInstrucciones { get; set; }
 
@@ -11,5 +11,5 @@ public partial class TabInstruccion
 
     public string? Instruccion { get; set; }
 
-    public virtual TabReceta? IdRecetaNavigation { get; set; }
+    public virtual TabRecetaModel? IdRecetaNavigation { get; set; }
 }
