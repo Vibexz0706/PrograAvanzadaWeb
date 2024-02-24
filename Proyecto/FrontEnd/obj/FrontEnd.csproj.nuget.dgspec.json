@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj": {}
+    "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj": {
+    "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Vibexz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vibexz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,11 +52,13 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.2, )"
             },
@@ -83,17 +89,21 @@
         }
       }
     },
-    "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj": {
+    "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj",
         "projectName": "FrontEnd",
-        "projectPath": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj",
-        "packagesPath": "C:\\Users\\Vibexz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\obj\\",
+        "projectPath": "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\FrontEnd.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vibexz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,8 +117,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Vibexz\\Desktop\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj"
+              "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive - Universidad Fidélitas\\VII Cuatrimestre\\Programacion avanzada en web\\Semana 6\\PrograAvanzadaWeb\\Proyecto\\Entities\\Entities.csproj"
               }
             }
           }
