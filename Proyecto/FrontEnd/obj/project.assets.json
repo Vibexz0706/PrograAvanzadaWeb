@@ -4462,19 +4462,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vibexz\\.nuget\\packages\\": {}
+    "C:\\Users\\kevin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vibexz\\Desktop\\Proyecto\\FrontEnd\\FrontEnd.csproj",
+      "projectUniqueName": "D:\\Archivos Personales\\Estudio\\Universidad\\2024\\Progra Avanzada Web\\Repo\\PrograAvanzadaWebProyecto\\Proyecto\\FrontEnd\\FrontEnd.csproj",
       "projectName": "FrontEnd",
-      "projectPath": "C:\\Users\\Vibexz\\Desktop\\Proyecto\\FrontEnd\\FrontEnd.csproj",
-      "packagesPath": "C:\\Users\\Vibexz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vibexz\\Desktop\\Proyecto\\FrontEnd\\obj\\",
+      "projectPath": "D:\\Archivos Personales\\Estudio\\Universidad\\2024\\Progra Avanzada Web\\Repo\\PrograAvanzadaWebProyecto\\Proyecto\\FrontEnd\\FrontEnd.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "D:\\Archivos Personales\\Estudio\\Universidad\\2024\\Progra Avanzada Web\\Repo\\PrograAvanzadaWebProyecto\\Proyecto\\FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vibexz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4494,6 +4494,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4540,7 +4545,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

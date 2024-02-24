@@ -12,3 +12,18 @@ C:\Users\Vibexz\Desktop\Proyecto\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\Vibexz\Desktop\Proyecto\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\Vibexz\Desktop\Proyecto\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
 C:\Users\Vibexz\Desktop\Proyecto\Entities\obj\Debug\net8.0\ref\Entities.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\bin\Debug\net8.0\Entities.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\bin\Debug\net8.0\Entities.pdb
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.pdb
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\Entities\obj\Debug\net8.0\ref\Entities.dll
