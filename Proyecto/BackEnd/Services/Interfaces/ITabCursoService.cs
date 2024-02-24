@@ -4,11 +4,11 @@ namespace BackEnd.Services.Interfaces
 {
 	public interface ITabCursoService
 	{
-		IEnumerable<TabCursoModel> GetCurso();
+		IEnumerable<TabCursoModel> GetTabCurso();
 		TabCursoModel GetById(int id);
-		bool AddCurso(TabCursoModel curso);
-		bool UpdateCurso(TabCursoModel curso);
-		bool DeteleCurso(TabCursoModel curso);
+		bool AddTabCurso(TabCursoModel TabCurso);
+		bool UpdateTabCurso(TabCursoModel TabCurso);
+		bool DeteleTabCurso(TabCursoModel TabCurso);
 
 
 	}

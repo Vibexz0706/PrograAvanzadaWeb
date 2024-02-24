@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Interfaces
 {
-<<<<<<< HEAD
+
     public interface IDALGenerico<TEntity> where TEntity : class
     {
         TEntity Get(int id);
@@ -18,21 +18,5 @@ namespace DAL.Interfaces
         bool Remove(TEntity entity);
 
     }
-=======
-	public interface IDALGenerico <TEntity> where TEntity : class
-	{
-		TEntity Get(int id);
-		IEnumerable<TEntity> GetAll();
-		IEnumerable<TEntity> Find(Expression<Func<TEntity, bool>> predicate);
 
-		// This method was not in the videos, but I thought it would be useful to add.
-
-
-		bool Add(TEntity entity);
-
-
-		bool Update(TEntity entity);
-		bool Remove(TEntity entity);
-	}
->>>>>>> Gustavo
 }

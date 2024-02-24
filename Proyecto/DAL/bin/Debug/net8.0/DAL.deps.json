@@ -20,13 +20,8 @@
           "System.Diagnostics.DiagnosticSource": "6.0.1",
           "System.Memory.Data": "1.0.2",
           "System.Numerics.Vectors": "4.5.0",
-<<<<<<< HEAD
           "System.Text.Encodings.Web": "6.0.0",
           "System.Text.Json": "4.7.2",
-=======
-          "System.Text.Encodings.Web": "8.0.0",
-          "System.Text.Json": "8.0.0",
->>>>>>> Gustavo
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
         "runtime": {
@@ -43,11 +38,7 @@
           "Microsoft.Identity.Client.Extensions.Msal": "4.56.0",
           "System.Memory": "4.5.4",
           "System.Security.Cryptography.ProtectedData": "6.0.0",
-<<<<<<< HEAD
           "System.Text.Json": "4.7.2",
-=======
-          "System.Text.Json": "8.0.0",
->>>>>>> Gustavo
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
         "runtime": {
@@ -57,7 +48,6 @@
           }
         }
       },
-<<<<<<< HEAD
       "Microsoft.AspNetCore.Cryptography.Internal/8.0.2": {
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -89,8 +79,6 @@
           }
         }
       },
-=======
->>>>>>> Gustavo
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -114,11 +102,7 @@
           "System.Security.Cryptography.Cng": "5.0.0",
           "System.Security.Principal.Windows": "5.0.0",
           "System.Text.Encoding.CodePages": "6.0.0",
-<<<<<<< HEAD
           "System.Text.Encodings.Web": "6.0.0"
-=======
-          "System.Text.Encodings.Web": "8.0.0"
->>>>>>> Gustavo
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
@@ -165,20 +149,6 @@
           }
         }
       },
-<<<<<<< HEAD
-=======
-      "Microsoft.Data.Sqlite.Core/8.0.2": {
-        "dependencies": {
-          "SQLitePCLRaw.core": "2.1.6"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Data.Sqlite.dll": {
-            "assemblyVersion": "8.0.2.0",
-            "fileVersion": "8.0.224.6803"
-          }
-        }
-      },
->>>>>>> Gustavo
       "Microsoft.EntityFrameworkCore/8.0.2": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "8.0.2",
@@ -214,22 +184,6 @@
           }
         }
       },
-<<<<<<< HEAD
-=======
-      "Microsoft.EntityFrameworkCore.Sqlite.Core/8.0.2": {
-        "dependencies": {
-          "Microsoft.Data.Sqlite.Core": "8.0.2",
-          "Microsoft.EntityFrameworkCore.Relational": "8.0.2",
-          "Microsoft.Extensions.DependencyModel": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll": {
-            "assemblyVersion": "8.0.2.0",
-            "fileVersion": "8.0.224.6803"
-          }
-        }
-      },
->>>>>>> Gustavo
       "Microsoft.EntityFrameworkCore.SqlServer/8.0.2": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.4",
@@ -245,15 +199,6 @@
       "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0"
-<<<<<<< HEAD
-=======
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.Caching.Abstractions.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
->>>>>>> Gustavo
         }
       },
       "Microsoft.Extensions.Caching.Memory/8.0.0": {
@@ -261,39 +206,18 @@
           "Microsoft.Extensions.Caching.Abstractions": "8.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
-<<<<<<< HEAD
           "Microsoft.Extensions.Options": "8.0.2",
           "Microsoft.Extensions.Primitives": "8.0.0"
-=======
-          "Microsoft.Extensions.Options": "8.0.0",
-          "Microsoft.Extensions.Primitives": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.Caching.Memory.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
->>>>>>> Gustavo
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0"
-<<<<<<< HEAD
-=======
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
->>>>>>> Gustavo
         }
       },
       "Microsoft.Extensions.DependencyInjection/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
-<<<<<<< HEAD
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {},
@@ -336,33 +260,6 @@
           "lib/net8.0/Microsoft.Extensions.Identity.Stores.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.224.6804"
-=======
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.DependencyInjection.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
-        }
-      },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
-        }
-      },
-      "Microsoft.Extensions.DependencyModel/8.0.0": {
-        "dependencies": {
-          "System.Text.Encodings.Web": "8.0.0",
-          "System.Text.Json": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.DependencyModel.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
->>>>>>> Gustavo
           }
         }
       },
@@ -370,37 +267,15 @@
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "8.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
-<<<<<<< HEAD
           "Microsoft.Extensions.Options": "8.0.2"
-=======
-          "Microsoft.Extensions.Options": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.Logging.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
->>>>>>> Gustavo
         }
       },
       "Microsoft.Extensions.Logging.Abstractions/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
-<<<<<<< HEAD
         }
       },
       "Microsoft.Extensions.Options/8.0.2": {
-=======
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
-        }
-      },
-      "Microsoft.Extensions.Options/8.0.0": {
->>>>>>> Gustavo
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
           "Microsoft.Extensions.Primitives": "8.0.0"
@@ -408,26 +283,11 @@
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Options.dll": {
             "assemblyVersion": "8.0.0.0",
-<<<<<<< HEAD
             "fileVersion": "8.0.224.6711"
           }
         }
       },
       "Microsoft.Extensions.Primitives/8.0.0": {},
-=======
-            "fileVersion": "8.0.23.53103"
-          }
-        }
-      },
-      "Microsoft.Extensions.Primitives/8.0.0": {
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.53103"
-          }
-        }
-      },
->>>>>>> Gustavo
       "Microsoft.Identity.Client/4.56.0": {
         "dependencies": {
           "Microsoft.IdentityModel.Abstractions": "6.24.0"
@@ -464,11 +324,7 @@
         "dependencies": {
           "Microsoft.IdentityModel.Tokens": "6.24.0",
           "System.Text.Encoding": "4.3.0",
-<<<<<<< HEAD
           "System.Text.Json": "4.7.2"
-=======
-          "System.Text.Json": "8.0.0"
->>>>>>> Gustavo
         },
         "runtime": {
           "lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
@@ -551,20 +407,6 @@
           }
         }
       },
-<<<<<<< HEAD
-=======
-      "SQLitePCLRaw.core/2.1.6": {
-        "dependencies": {
-          "System.Memory": "4.5.4"
-        },
-        "runtime": {
-          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {
-            "assemblyVersion": "2.1.6.2060",
-            "fileVersion": "2.1.6.2060"
-          }
-        }
-      },
->>>>>>> Gustavo
       "System.Configuration.ConfigurationManager/6.0.1": {
         "dependencies": {
           "System.Security.Cryptography.ProtectedData": "6.0.0",
@@ -629,13 +471,8 @@
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
-<<<<<<< HEAD
           "System.Text.Encodings.Web": "6.0.0",
           "System.Text.Json": "4.7.2"
-=======
-          "System.Text.Encodings.Web": "8.0.0",
-          "System.Text.Json": "8.0.0"
->>>>>>> Gustavo
         },
         "runtime": {
           "lib/netstandard2.0/System.Memory.Data.dll": {
@@ -718,21 +555,12 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
-<<<<<<< HEAD
       "System.Text.Encodings.Web/6.0.0": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
       "System.Text.Json/4.7.2": {},
-=======
-      "System.Text.Encodings.Web/8.0.0": {},
-      "System.Text.Json/8.0.0": {
-        "dependencies": {
-          "System.Text.Encodings.Web": "8.0.0"
-        }
-      },
->>>>>>> Gustavo
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "System.Windows.Extensions/6.0.0": {
         "dependencies": {
@@ -755,15 +583,9 @@
       },
       "Entities/1.0.0": {
         "dependencies": {
-<<<<<<< HEAD
           "Microsoft.AspNetCore.Identity.UI": "8.0.2",
           "Microsoft.EntityFrameworkCore": "8.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
-=======
-          "Microsoft.EntityFrameworkCore": "8.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
-          "Microsoft.EntityFrameworkCore.Sqlite.Core": "8.0.2"
->>>>>>> Gustavo
         },
         "runtime": {
           "Entities.dll": {}
@@ -791,7 +613,6 @@
       "path": "azure.identity/1.10.3",
       "hashPath": "azure.identity.1.10.3.nupkg.sha512"
     },
-<<<<<<< HEAD
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.2": {
       "type": "package",
       "serviceable": true,
@@ -813,8 +634,6 @@
       "path": "microsoft.aspnetcore.identity.ui/8.0.2",
       "hashPath": "microsoft.aspnetcore.identity.ui.8.0.2.nupkg.sha512"
     },
-=======
->>>>>>> Gustavo
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",
       "serviceable": true,
@@ -843,16 +662,6 @@
       "path": "microsoft.data.sqlclient.sni.runtime/5.1.1",
       "hashPath": "microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512"
     },
-<<<<<<< HEAD
-=======
-    "Microsoft.Data.Sqlite.Core/8.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-C7VelOBNUrVlatmOoJ9P+vc/gegduv7d2uB5oy7bFxfgZBfaGr+eREW+QuppXwi3MHp0WBxxWjqkK5gD7ymDQA==",
-      "path": "microsoft.data.sqlite.core/8.0.2",
-      "hashPath": "microsoft.data.sqlite.core.8.0.2.nupkg.sha512"
-    },
->>>>>>> Gustavo
     "Microsoft.EntityFrameworkCore/8.0.2": {
       "type": "package",
       "serviceable": true,
@@ -881,16 +690,6 @@
       "path": "microsoft.entityframeworkcore.relational/8.0.2",
       "hashPath": "microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512"
     },
-<<<<<<< HEAD
-=======
-    "Microsoft.EntityFrameworkCore.Sqlite.Core/8.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-cUOohC2oMaHG8rAvF1bvg5U5Hmeio8nTvCJghyPSnnKtWPu6U/Ozw4jcdJn1UjeYe7X0udP8ax/IB6wb9BOLWw==",
-      "path": "microsoft.entityframeworkcore.sqlite.core/8.0.2",
-      "hashPath": "microsoft.entityframeworkcore.sqlite.core.8.0.2.nupkg.sha512"
-    },
->>>>>>> Gustavo
     "Microsoft.EntityFrameworkCore.SqlServer/8.0.2": {
       "type": "package",
       "serviceable": true,
@@ -933,7 +732,6 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
     },
-<<<<<<< HEAD
     "Microsoft.Extensions.FileProviders.Abstractions/8.0.0": {
       "type": "package",
       "serviceable": true,
@@ -961,14 +759,6 @@
       "sha512": "sha512-m8v0s0gVgKo3ML03Si+FdhL+ZCotRR6qTxlbZ8co/zqXl0vlsFIS/SJQBaKxnht8LtAv04T6seK7T97SPXO0iQ==",
       "path": "microsoft.extensions.identity.stores/8.0.2",
       "hashPath": "microsoft.extensions.identity.stores.8.0.2.nupkg.sha512"
-=======
-    "Microsoft.Extensions.DependencyModel/8.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-NSmDw3K0ozNDgShSIpsZcbFIzBX4w28nDag+TfaQujkXGazBm+lid5onlWoCBy4VsLxqnnKjEBbGSJVWJMf43g==",
-      "path": "microsoft.extensions.dependencymodel/8.0.0",
-      "hashPath": "microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512"
->>>>>>> Gustavo
     },
     "Microsoft.Extensions.Logging/8.0.0": {
       "type": "package",
@@ -984,21 +774,12 @@
       "path": "microsoft.extensions.logging.abstractions/8.0.0",
       "hashPath": "microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
     },
-<<<<<<< HEAD
     "Microsoft.Extensions.Options/8.0.2": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-dWGKvhFybsaZpGmzkGCbNNwBD1rVlWzrZKANLW/CcbFJpCEceMCGzT7zZwHOGBCbwM0SzBuceMj5HN1LKV1QqA==",
       "path": "microsoft.extensions.options/8.0.2",
       "hashPath": "microsoft.extensions.options.8.0.2.nupkg.sha512"
-=======
-    "Microsoft.Extensions.Options/8.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-JOVOfqpnqlVLUzINQ2fox8evY2SKLYJ3BV8QDe/Jyp21u1T7r45x/R/5QdteURMR5r01GxeJSBBUOCOyaNXA3g==",
-      "path": "microsoft.extensions.options/8.0.0",
-      "hashPath": "microsoft.extensions.options.8.0.0.nupkg.sha512"
->>>>>>> Gustavo
     },
     "Microsoft.Extensions.Primitives/8.0.0": {
       "type": "package",
@@ -1091,16 +872,6 @@
       "path": "microsoft.win32.systemevents/6.0.0",
       "hashPath": "microsoft.win32.systemevents.6.0.0.nupkg.sha512"
     },
-<<<<<<< HEAD
-=======
-    "SQLitePCLRaw.core/2.1.6": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-wO6v9GeMx9CUngAet8hbO7xdm+M42p1XeJq47ogyRoYSvNSp0NGLI+MgC0bhrMk9C17MTVFlLiN6ylyExLCc5w==",
-      "path": "sqlitepclraw.core/2.1.6",
-      "hashPath": "sqlitepclraw.core.2.1.6.nupkg.sha512"
-    },
->>>>>>> Gustavo
     "System.Configuration.ConfigurationManager/6.0.1": {
       "type": "package",
       "serviceable": true,
@@ -1234,7 +1005,6 @@
       "path": "system.text.encoding.codepages/6.0.0",
       "hashPath": "system.text.encoding.codepages.6.0.0.nupkg.sha512"
     },
-<<<<<<< HEAD
     "System.Text.Encodings.Web/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1248,21 +1018,6 @@
       "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
       "path": "system.text.json/4.7.2",
       "hashPath": "system.text.json.4.7.2.nupkg.sha512"
-=======
-    "System.Text.Encodings.Web/8.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-yev/k9GHAEGx2Rg3/tU6MQh4HGBXJs70y7j1LaM1i/ER9po+6nnQ6RRqTJn1E7Xu0fbIFK80Nh5EoODxrbxwBQ==",
-      "path": "system.text.encodings.web/8.0.0",
-      "hashPath": "system.text.encodings.web.8.0.0.nupkg.sha512"
-    },
-    "System.Text.Json/8.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-OdrZO2WjkiEG6ajEFRABTRCi/wuXQPxeV6g8xvUJqdxMvvuCCEk86zPla8UiIQJz3durtUEbNyY/3lIhS0yZvQ==",
-      "path": "system.text.json/8.0.0",
-      "hashPath": "system.text.json.8.0.0.nupkg.sha512"
->>>>>>> Gustavo
     },
     "System.Threading.Tasks.Extensions/4.5.4": {
       "type": "package",

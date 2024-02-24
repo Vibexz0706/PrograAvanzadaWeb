@@ -2239,8 +2239,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Identity.UI": "8.0.2",
           "Microsoft.EntityFrameworkCore": "8.0.2",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
-          "Microsoft.EntityFrameworkCore.Sqlite.Core": "8.0.2"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
         },
         "runtime": {
           "Entities.dll": {}

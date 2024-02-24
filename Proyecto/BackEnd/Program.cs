@@ -1,13 +1,12 @@
-<<<<<<< HEAD
+
 using Backend.Services.Implementations;
 using Backend.Services.Interfaces;
-=======
 using BackEnd.Services.Implementations;
 using BackEnd.Services.Interfaces;
->>>>>>> Gustavo
 using DAL.Implementations;
 using DAL.Interfaces;
 using Entities.Entities;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,24 +16,19 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<PrograWebContext>();
-
-#region DI
-builder.Services.AddScoped<IUnidadDeTrabajo, UnidadDeTrabajo>();
-builder.Services.AddScoped<ITabCurso, TabCursoDALImpl>();
-builder.Services.AddScoped<ITabCursoService, TabCursoService>();
-builder.Services.AddScoped<ITabCursoImpartir, TabCursoImpartirDALImpl>();
-builder.Services.AddScoped<ITabCursoImpartirService, ITabCursoImpartirService>();
-
-#endregion
-
-
-
 
 //Initialize Context
 builder.Services.AddDbContext<PrograWebContext>();
 
+#region DI
+
 //Initialize UnitOfWork
+builder.Services.AddScoped<IUnidadDeTrabajo, UnidadDeTrabajo>();
+builder.Services.AddScoped<ITabCurso, TabCursoDALImpl>();
+builder.Services.AddScoped<ITabCursoService, TabCursoService>();
+builder.Services.AddScoped<ITabCursoImpartir, TabCursoImpartirDALImpl>();
+builder.Services.AddScoped<ITabCursoImpartirService, TabCursoImpartirService>();
+
 builder.Services.AddScoped<IUnidadDeTrabajo, UnidadDeTrabajo>();
 
 builder.Services.AddScoped<ITabEstadoDAL, TabEstadoDALImpl>();
@@ -60,6 +54,12 @@ builder.Services.AddScoped<ITabProfesorService, TabProfesorService>();
 
 builder.Services.AddScoped<ITabRecetaDAL, TabRecetaDALImpl>();
 builder.Services.AddScoped<ITabRecetaService, TabRecetaService>();
+
+#endregion
+
+
+
+
 
 var app = builder.Build();
 

@@ -91,5 +91,15 @@ namespace BackEnd.Services.Implementations
 			return _unidadDeTrabajo.Complete();
 		}
 
-	}
+        public IEnumerable<TabCursoModel> GetTabCurso()
+        {
+            var result=_unidadDeTrabajo._tabCursoDAL.GetAll();
+            List<TabCursoModel> lista = new List<TabCursoModel>();
+			foreach (var tabCurso in result)
+			{
+				lista.Add(Convertir(tabCurso));
+			}
+			return lista;
+        }
+    }
 }

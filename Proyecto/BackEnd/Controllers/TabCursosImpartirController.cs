@@ -14,7 +14,7 @@ namespace Backend.Controllers
 
 		ITabCursoImpartirService TabCursoImpartirService;
 
-        public TabCursoImpartirsController(ITabCursoImpartirService tabCursoImpartirService)
+        public TabCursosImpartirController(ITabCursoImpartirService tabCursoImpartirService)
         {
 			TabCursoImpartirService = tabCursoImpartirService;
         }

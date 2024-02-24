@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 ﻿using System;
-=======
+
 ﻿using Entities.Entities;
 using System;
->>>>>>> Gustavo
+
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Interfaces
 {
-<<<<<<< HEAD
+
     public interface IUnidadDeTrabajo : IDisposable
     {
 
@@ -22,18 +22,13 @@ namespace DAL.Interfaces
         ITabInstruccionDAL _tabInstruccionDAL { get; }   
         ITabMatriculaDAL _tabMatriculaDAL { get; }   
         ITabProfesorDAL _tabProfesorDAL { get; }   
-        ITabRecetaDAL _tabRecetaDAL { get; }   
+        ITabRecetaDAL _tabRecetaDAL { get; }
+        ITabCurso _tabCursoDAL { get; }
+        ITabCursoImpartir _tabCursoImpartirDAL { get; }
 
 
         bool Complete();    
 
     }
-=======
-	public interface IUnidadDeTrabajo : IDisposable
-	{
-		ITabCurso _tabCursoDAL { get; }
-		ITabCursoImpartir _tabCursoImpartirDAL { get; }
-		bool Complete();
-	}
->>>>>>> Gustavo
+
 }

@@ -59,7 +59,7 @@ namespace BackEnd.Services.Implementations
 			return tabCursoImpartirModel;
 		}
 
-		public IEnumerable<TabCursoImpartirModel> GetTabCursoImpartirs()
+		public IEnumerable<TabCursoImpartirModel> GetTabCursosImpartir()
 		{
 
 			var result = _unidadDeTrabajo._tabCursoImpartirDAL.GetAll();
@@ -80,5 +80,6 @@ namespace BackEnd.Services.Implementations
 			return _unidadDeTrabajo.Complete();
 		}
 
-	}
+        
+    }
 }

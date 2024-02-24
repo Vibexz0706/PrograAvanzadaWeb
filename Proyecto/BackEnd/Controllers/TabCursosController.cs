@@ -16,13 +16,14 @@ namespace Backend.Controllers
         public TabCursosController(ITabCursoService tabCursoService)
         {
 			TabCursoService = tabCursoService;
+            
         }
 
 		// GET: api/<TabCursoController>
 		[HttpGet]
         public IEnumerable<TabCursoModel> Get()
         {
-            return TabCursoService.GetTabCursos();
+            return TabCursoService.GetTabCurso();
         }
 
 		// GET api/<TabCursoController>/5
