@@ -13,7 +13,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj" />
+<<<<<<< HEAD
     <ProjectReference Include="..\Entities\Entities.csproj" />
+=======
+>>>>>>> Gustavo
   </ItemGroup>
 
 </Project>

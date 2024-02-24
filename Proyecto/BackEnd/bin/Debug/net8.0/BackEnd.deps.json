@@ -8,14 +8,18 @@
     ".NETCoreApp,Version=v8.0": {
       "BackEnd/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "DAL": "1.0.0",
           "Entities": "1.0.0",
+=======
+>>>>>>> Gustavo
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
           "BackEnd.dll": {}
         }
       },
+<<<<<<< HEAD
       "Azure.Core/1.35.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
@@ -386,6 +390,9 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+=======
+      "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
+>>>>>>> Gustavo
       "Microsoft.OpenApi/1.2.3": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
@@ -394,6 +401,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.SqlServer.Server/1.0.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
@@ -418,6 +426,8 @@
           }
         }
       },
+=======
+>>>>>>> Gustavo
       "Swashbuckle.AspNetCore/6.4.0": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -455,6 +465,7 @@
             "fileVersion": "6.4.0.0"
           }
         }
+<<<<<<< HEAD
       },
       "System.Configuration.ConfigurationManager/6.0.1": {
         "dependencies": {
@@ -647,6 +658,8 @@
         "runtime": {
           "Entities.dll": {}
         }
+=======
+>>>>>>> Gustavo
       }
     }
   },
@@ -656,6 +669,7 @@
       "serviceable": false,
       "sha512": ""
     },
+<<<<<<< HEAD
     "Azure.Core/1.35.0": {
       "type": "package",
       "serviceable": true,
@@ -754,6 +768,8 @@
       "path": "microsoft.entityframeworkcore.sqlserver/8.0.2",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512"
     },
+=======
+>>>>>>> Gustavo
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
       "serviceable": true,
@@ -761,6 +777,7 @@
       "path": "microsoft.extensions.apidescription.server/6.0.5",
       "hashPath": "microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512"
     },
+<<<<<<< HEAD
     "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
       "type": "package",
       "serviceable": true,
@@ -922,6 +939,8 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
+=======
+>>>>>>> Gustavo
     "Microsoft.OpenApi/1.2.3": {
       "type": "package",
       "serviceable": true,
@@ -929,6 +948,7 @@
       "path": "microsoft.openapi/1.2.3",
       "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
     },
+<<<<<<< HEAD
     "Microsoft.SqlServer.Server/1.0.0": {
       "type": "package",
       "serviceable": true,
@@ -943,6 +963,8 @@
       "path": "microsoft.win32.systemevents/6.0.0",
       "hashPath": "microsoft.win32.systemevents.6.0.0.nupkg.sha512"
     },
+=======
+>>>>>>> Gustavo
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",
       "serviceable": true,
@@ -970,6 +992,7 @@
       "sha512": "sha512-1Hh3atb3pi8c+v7n4/3N80Jj8RvLOXgWxzix6w3OZhB7zBGRwsy7FWr4e3hwgPweSBpwfElqj4V4nkjYabH9nQ==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+<<<<<<< HEAD
     },
     "System.Configuration.ConfigurationManager/6.0.1": {
       "type": "package",
@@ -1141,6 +1164,8 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+=======
+>>>>>>> Gustavo
     }
   }
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Vibexz\Desktop\PrograAvanzadaWeb\Proyecto\BackEnd\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Vibexz\Desktop\PrograAvanzadaWeb\Proyecto\BackEnd\bin\Debug\net8.0\appsettings.json
 C:\Users\Vibexz\Desktop\PrograAvanzadaWeb\Proyecto\BackEnd\bin\Debug\net8.0\BackEnd.exe
@@ -113,3 +114,38 @@ C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion a
 C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.pdb
 C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
 C:\Users\johan\OneDrive - Universidad Fidélitas\VII Cuatrimestre\Programacion avanzada en web\Semana 6\PrograAvanzadaWeb\Proyecto\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+=======
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\appsettings.Development.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\appsettings.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\BackEnd.exe
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\BackEnd.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.csproj.AssemblyReference.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.BackEnd.props
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackEnd.props
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackEnd.props
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\scopedcss\bundle\BackEnd.styles.css
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.csproj.Up2Date
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+D:\Archivos Personales\Estudio\Universidad\2024\Progra Avanzada Web\Repo\PrograAvanzadaWebProyecto\Proyecto\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+>>>>>>> Gustavo

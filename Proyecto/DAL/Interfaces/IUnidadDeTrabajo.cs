@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+﻿using Entities.Entities;
+using System;
+>>>>>>> Gustavo
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Interfaces
 {
+<<<<<<< HEAD
     public interface IUnidadDeTrabajo : IDisposable
     {
 
@@ -22,4 +28,12 @@ namespace DAL.Interfaces
         bool Complete();    
 
     }
+=======
+	public interface IUnidadDeTrabajo : IDisposable
+	{
+		ITabCurso _tabCursoDAL { get; }
+		ITabCursoImpartir _tabCursoImpartirDAL { get; }
+		bool Complete();
+	}
+>>>>>>> Gustavo
 }
